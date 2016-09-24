@@ -26,3 +26,6 @@ The Nany Web Editor is written using HTML/PHP/CSS/JS and relies on several open-
 * [jQuery](https://jquery.com/) and [jQuery UI](https://jqueryui.com/)
 * [Dropzone.js](http://www.dropzonejs.com/)
 * [Spin.js](http://spin.js.org)
+
+
+Very nice project !
